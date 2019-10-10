@@ -1,0 +1,16 @@
+{
+    "name": "Eflatun.Inspector.Editor",
+    "references": [
+        "GUID:ba89e28230f85774b82a79749468611a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
