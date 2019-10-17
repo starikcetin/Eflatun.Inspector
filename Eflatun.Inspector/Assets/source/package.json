@@ -1,9 +1,0 @@
-{
-    "author": "starikcetin <cetinsamedtarik@gmail.com> (https://github.com/starikcetin)",
-    "dependencies": {},
-    "description": "Editor utilities for Unity.",
-    "displayName": "Eflatun.Inspector",
-    "license": "MIT",
-    "name": "com.starikcetin.eflatun.inspector",
-    "version": "0.0.1"
-}
