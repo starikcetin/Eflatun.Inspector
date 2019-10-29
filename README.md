@@ -1,5 +1,5 @@
 # Eflatun.Inspector
-Editor utilities for Unity.
+Inspector utilities for Unity.
 
 This repository has UPM support. Use https://github.com/mob-sakai/UpmGitExtension for installing it directly in Unity.
 
